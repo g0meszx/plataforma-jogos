@@ -9,5 +9,3 @@ O sistema segue a arquitetura MVC com as seguintes camadas:
 
 Fluxo básico:
 Usuário → Frontend → Backend → Banco de Dados / APIs externas
-
-> Sugestão: anexar aqui um diagrama visual no futuro.
