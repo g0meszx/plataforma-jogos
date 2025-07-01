@@ -1,4 +1,4 @@
-# Guia de Implantação - Módulo Web Fictício: Plataforma de Jogos Digitais
+# Guia de Implantação - Plataforma de Jogos Digitais
 
 ## 1. Visão Geral
 Este módulo faz parte de uma plataforma de jogos digitais e tem como objetivo permitir que usuários descubram, comprem e gerenciem jogos em uma interface web amigável. O sistema contempla funcionalidades como cadastro de usuários, listagem de jogos, pagamentos e downloads digitais. Esta implantação visa disponibilizar o módulo em ambiente de produção com estabilidade e performance adequadas.
